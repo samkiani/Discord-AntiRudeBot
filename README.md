@@ -1,7 +1,7 @@
 # Discord-AntiRudeBot
 
 Stop Rude members in your guild<br/>
-A funny antirude bot for persians
+A funny antirude bot for `Persians`
 
 - You can add your words in BadWord.json file
 
